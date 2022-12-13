@@ -4,7 +4,7 @@
   entry: check-xmllint
   args: [-i]
   language: script
-  types_or: [xmi]
+  types_or: [xml, javascript]
 
 - id: check-xmllint
   name: Check XML files formatting
